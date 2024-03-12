@@ -25,9 +25,9 @@
 ## Использование
 Для запуска приложения необходимо выполнить следующие шаги:
 
-1. Клонируем проект на компьютер.
+1. Клонируем проект на компьютер по SSH.
     ```bash
-    git@github.com:generation59/TestTask.git
+    https://github.com/generation59/TestTask.git
     ```
 2. Соберите Docker образ:
     ```bash
